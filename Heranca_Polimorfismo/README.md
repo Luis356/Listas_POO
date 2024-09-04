@@ -1,8 +1,7 @@
 # Sistema de Gerenciamento de Dispositivos Telefônicos #
 
 ## Contexto: ##
-    O objetivo é usar herança e polimorfismo para modelar esses dispositivos e suas
-interações
+    O objetivo é usar herança e polimorfismo para modelar esses dispositivos e suas interações
 
 ## Objetivos: ##
 1. Implementar uma classe base DispositivoTelefonico;
