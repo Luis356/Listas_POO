@@ -14,14 +14,14 @@ referências da classe base;
 
 ### 1. Classe Base: DispositivoTelefonico ###
     
-    + Atributos:
-        + numero (String): Representa o número do dispositivo;
-        + modelo (String): Representa o modelo do dispositivo;
+    * Atributos:
+        * numero (String): Representa o número do dispositivo;
+        * modelo (String): Representa o modelo do dispositivo;
     
-    + Métodos:
-        + public DispositivoTelefonico(String numero, String modelo):
+    - Métodos:
+        - public DispositivoTelefonico(String numero, String modelo):
             Construtor para inicializar os atributos.
-        + public void ligar(): Método para ligar para um número. Pode ser
+        - public void ligar(): Método para ligar para um número. Pode ser
             sobrescrito nas classes derivadas.
-        + public void mostrarDetalhes(): Exibe o número e o modelo do
+        - public void mostrarDetalhes(): Exibe o número e o modelo do
             dispositivo.
