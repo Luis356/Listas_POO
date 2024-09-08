@@ -1,4 +1,4 @@
-package ListaCompleta;
+package Heranca_Polimorfismo;
 
 public class Celular extends DispositivoTelefonico {
 
